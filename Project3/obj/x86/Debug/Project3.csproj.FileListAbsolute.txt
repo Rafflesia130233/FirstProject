@@ -1,0 +1,30 @@
+E:\Data Structure\User of csharp\Project3\Project3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Project3\Project3\obj\x86\Debug\Project3.Form1.resources
+E:\Data Structure\User of csharp\Project3\Project3\obj\x86\Debug\Project3.Form2.resources
+E:\Data Structure\User of csharp\Project3\Project3\obj\x86\Debug\Project3.Properties.Resources.resources
+E:\Data Structure\User of csharp\Project3\Project3\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Data Structure\User of csharp\Project3\Project3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Data Structure\User of csharp\Project3\Project3\bin\Debug\Project3.exe
+E:\Data Structure\User of csharp\Project3\Project3\bin\Debug\Project3.pdb
+E:\Data Structure\User of csharp\Project3\Project3\obj\x86\Debug\Project3.exe
+E:\Data Structure\User of csharp\Project3\Project3\obj\x86\Debug\Project3.pdb
+E:\Data Structure\User of csharp\Project3\Project3\obj\x86\Debug\Project3.Form3.resources
+E:\Data Structure\User of csharp\Lab2\Project3\obj\x86\Debug\Project3.exe
+E:\Data Structure\User of csharp\Lab2\Project3\obj\x86\Debug\Project3.pdb
+E:\Data Structure\User of csharp\Lab2\Project3\bin\Debug\Project3.exe
+E:\Data Structure\User of csharp\Lab2\Project3\bin\Debug\Project3.pdb
+E:\Data Structure\User of csharp\Lab2\Project3\obj\x86\Debug\Project3.Form1.resources
+E:\Data Structure\User of csharp\Lab2\Project3\obj\x86\Debug\Project3.Form2.resources
+E:\Data Structure\User of csharp\Lab2\Project3\obj\x86\Debug\Project3.Form3.resources
+E:\Data Structure\User of csharp\Lab2\Project3\obj\x86\Debug\Project3.Properties.Resources.resources
+E:\Data Structure\User of csharp\Lab2\Project3\obj\x86\Debug\Project3.csproj.GenerateResource.Cache
+E:\Data Structure\User of csharp\Main Class Project\Lab2\Project3\obj\x86\Debug\Project3.exe
+E:\Data Structure\User of csharp\Main Class Project\Lab2\Project3\obj\x86\Debug\Project3.pdb
+E:\Data Structure\User of csharp\Main Class Project\Lab2\Project3\bin\Debug\Project3.exe
+E:\Data Structure\User of csharp\Main Class Project\Lab2\Project3\bin\Debug\Project3.pdb
+E:\Data Structure\User of csharp\Main Class Project\Lab2\Project3\obj\x86\Debug\Project3.csprojResolveAssemblyReference.cache
+E:\Data Structure\User of csharp\Main Class Project\Lab2\Project3\obj\x86\Debug\Project3.Form1.resources
+E:\Data Structure\User of csharp\Main Class Project\Lab2\Project3\obj\x86\Debug\Project3.Form2.resources
+E:\Data Structure\User of csharp\Main Class Project\Lab2\Project3\obj\x86\Debug\Project3.Form3.resources
+E:\Data Structure\User of csharp\Main Class Project\Lab2\Project3\obj\x86\Debug\Project3.Properties.Resources.resources
+E:\Data Structure\User of csharp\Main Class Project\Lab2\Project3\obj\x86\Debug\Project3.csproj.GenerateResource.Cache
